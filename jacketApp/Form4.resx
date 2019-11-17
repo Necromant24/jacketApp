@@ -117,41 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="BackJacketImg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BackJacketImg.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="FrontJacketImgActive" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\FrontJacketImgActive.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="FrontJacketImg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\FrontJacketImg.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="FrontJacketImg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\FrontJacketImg1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LeftJacketImg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LeftJacketImg.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="RightJacketImg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\RightJacketImg.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BackJacketImg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BackJacketImg1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BackJacketImgActive" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BackJacketImgActive.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LeftJacketImg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LeftJacketImg1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LeftJacketImgActive" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LeftJacketImgActive.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="RightJacketImg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\RightJacketImg1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="RightJacketImgActive" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\RightJacketImgActive.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
